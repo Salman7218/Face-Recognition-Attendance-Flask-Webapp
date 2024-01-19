@@ -1,5 +1,0 @@
-opencv-python
-Flask
-scikit-learn
-pandas
-joblib
